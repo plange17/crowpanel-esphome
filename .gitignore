@@ -1,2 +1,3 @@
 .esphome/ 
-.yaml 
+secrets.yaml 
+crowpanel-70-advance.yaml
