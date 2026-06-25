@@ -1,0 +1,4 @@
+name: "crowpanel_touch"
+files:
+  - crowpanel_touch.h
+  - crowpanel_touch.cpp
